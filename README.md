@@ -36,7 +36,7 @@ SIEM, Thoropass, Wazuh, Trivy, Keycloak, FreeIPA, Renovate, SAML, OAUTH2, LDAP
 * Atlassian: JIRA; Confluence; OpsGenie
 
 <h2 align>How to reach me</h2>
-📫 **nissan547@live.com**
+📫 nissan547@live.com
 
 <h2 align="left">Connect with me:</h2>
 
